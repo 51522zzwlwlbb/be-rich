@@ -1,0 +1,1 @@
+import{dc as p,M as t}from"./index-DF_kSXQG.js";function m(){const e=p(),s=t(()=>e.darkTheme),n=t(()=>e.appTheme),o=t(()=>e.appThemeList);return{getDarkTheme:s,getAppTheme:n,getAppThemeList:o}}export{m as u};

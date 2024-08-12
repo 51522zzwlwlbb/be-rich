@@ -1,0 +1,1 @@
+import{W as i,cM as c,Y as t,cN as m}from"./index.84cd4302.js";function u(){const n=i(c,null);return t(()=>{if(n===null)return m;const{mergedThemeRef:{value:r},mergedThemeOverridesRef:{value:e}}=n,o=(r==null?void 0:r.common)||m;return e!=null&&e.common?Object.assign({},o,e.common):o})}export{u};

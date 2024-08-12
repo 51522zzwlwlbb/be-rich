@@ -1,1 +1,0 @@
-import{cn as p,Y as t}from"./index.c30110a6.js";function m(){const e=p(),s=t(()=>e.darkTheme),n=t(()=>e.appTheme),o=t(()=>e.appThemeList);return{getDarkTheme:s,getAppTheme:n,getAppThemeList:o}}export{m as u};
